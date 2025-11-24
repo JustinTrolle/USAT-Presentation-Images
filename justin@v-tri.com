@@ -583,7 +583,7 @@
                 <div class="header-logo-right">
                     <div class="logo-badge">
                         <div class="badge-content">
-                            <!-- To use a PNG image, replace the text with: <img src="https://raw.githubusercontent.com/JustinTrolle/USAT-Images/6fa7af6cfb6382697c5fd814ffbab8a76e0cde34/2026%20Endurance%20Exchange.png" alt="Badge"> -->
+                            <!-- To use a PNG image, replace the text with: <img src="path/to/your/badge.png" alt="Badge"> -->
                             <div class="badge-year">2026</div>
                             <div>Business Plan</div>
                         </div>
